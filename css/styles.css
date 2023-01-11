@@ -1,0 +1,118 @@
+.nav-head {
+    background-color: #002e25 !important;
+    border: none;
+}
+
+a {
+    color: lightgray;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+a:hover {
+    color: white;
+}
+
+.navbar-light .nav-brand {
+    color: white;
+    font-size: 30px;
+    margin-left: 50px;
+}
+
+.navbar-light .nav-brand:hover {
+    color: white;
+}
+
+.navbar-light .navbar-nav .navbar-links {
+    color: lightgray;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.navbar-light .navbar-nav .navbar-links:hover {
+    color: white;
+}
+
+.free-trial-btn-nav {
+    color: white;
+    border-color: #28a745;
+    background-color: green;
+    margin-left: 20px;
+    margin-right: 50px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.free-trial-btn-nav:hover {
+    color: #002e25;
+}
+
+.button-nav {
+    border-width: none;
+    border-color: none;
+    background-color: #002e25;
+    border: none;
+    color: lightgray;
+    margin-right: 20px;
+    border-radius: 2px;
+}
+
+.button-nav:hover {
+    color: white;
+}
+
+.under-nav {
+    background-image: url(  https://cdn.shopify.com/shopifycloud/brochure/asse…3e1008af6b7a35555888443d2e4860a1edab0363ec947.png);
+    margin: none;
+    background-color: gainsboro;
+    display: flex;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+img {
+    width: 100%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+
+.free-trail {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+h3 {
+    margin-bottom: 20px;
+}
+
+input {
+    margin-right: 20px;
+    padding: 15px;
+    width: 400px;
+}
+
+.button-free-trial {
+    background-color: #003300;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 6px;
+    border-color: none;
+}
+
+.button-free-trial:hover {
+    color: seagreen;
+}
